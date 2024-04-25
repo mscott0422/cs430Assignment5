@@ -16,4 +16,4 @@ To start the server and run the webpage:
 
 7. click on the .war file and run it on the server
 
-8. Open a browser with "http://localhost:8080/assignment5/" or open the browser in the IDE
+8. Open a browser with "http://localhost:8080/cs430assignment5/" or open the browser in the IDE
