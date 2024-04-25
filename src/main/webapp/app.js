@@ -1,4 +1,4 @@
-// Authors: Mitchell Scott, Boone Losche, Corwin Pauslon
+// Authors: Mitchell Scott, Boone Losche, Corwin Paulsen
 
 
 function searchUsers() {

@@ -1,4 +1,4 @@
-// Authors: Mitchell Scott, Boone Losche, Corwin Pauslon
+// Authors: Mitchell Scott, Boone Losche, Corwin Paulsen
 
 package com.example.servlets;
 
@@ -22,9 +22,9 @@ public class AddUserServlet extends HttpServlet {
     private static final long serialVersionUID = 1L;
 
     // JDBC URL, username, and password
-    private static final String JDBC_URL = "jdbc:mysql://faure.cs.colostate.edu:3306/mscott17";
-    private static final String JDBC_USERNAME = "mscott17";
-    private static final String JDBC_PASSWORD = "835221430";
+    private static final String JDBC_URL = "jdbc:mysql://faure.cs.colostate.edu:3306/";
+    private static final String JDBC_USERNAME = "";
+    private static final String JDBC_PASSWORD = "";
 
     protected void doPost(HttpServletRequest request, HttpServletResponse response)
             throws ServletException, IOException {
