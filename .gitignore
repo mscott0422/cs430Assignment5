@@ -1,0 +1,10 @@
+*.war
+*.class
+*.jar
+*.lst
+
+*/target/*
+target/assignment5/app.js
+target/assignment5/index.html
+target/assignment5/WEB-INF/web.xml
+target/maven-archiver/pom.properties
