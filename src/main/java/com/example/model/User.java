@@ -1,3 +1,4 @@
+// Authors: Mitchell Scott, Boone Losche, Corwin Paulsen
 package com.example.model;
 
 public class User {
